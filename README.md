@@ -1,2 +1,2 @@
-# responsive-travel-email
- An HTML email marketing traveling around the world.
+# Responsive Travel Email
+## An HTML email marketing traveling around the world.

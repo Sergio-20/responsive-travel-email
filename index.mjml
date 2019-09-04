@@ -1,0 +1,109 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-title>Smooth Travel Agency Inc.</mj-title>
+
+    <mj-style>
+
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body>
+
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%">
+        <mj-image align="center" width="600px" src="https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+      </mj-column>
+
+      <mj-column width="100%">
+          <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="24px" letter-spacing="1px"><strong>Explore The Wonders Of The World</strong></mj-text>
+          <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="50%">
+        <mj-image align="left" width="300px" height="345px" src="https://images.pexels.com/photos/2774311/pexels-photo-2774311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Feel The Grandeur</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image align="center" width="300px" height="345px" src="https://images.pexels.com/photos/2040627/pexels-photo-2040627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="33%">
+        <mj-image align="left" width="200px" height="250px" src="https://images.pexels.com/photos/2413424/pexels-photo-2413424.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Feel The Grandeur</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image align="center" width="200px" height="250px" src="https://images.pexels.com/photos/756024/pexels-photo-756024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image align="center" width="200px" height="250px" src="https://images.pexels.com/photos/1324147/pexels-photo-1324147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%">
+        <mj-image align="center" width="450px" height="300px" src="https://images.pexels.com/photos/2604845/pexels-photo-2604845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+        <mj-button background-color="#da4167" color="#ffffff"><strong>BOOK YOUR TRIP TODAY</strong></mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#564e58" full-width="600px" padding="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>123 Main St.</strong></mj-text>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>Help Center</strong></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>San Francisco, CA</strong></mj-text>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>Privacy Policy</strong></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>94103</strong></mj-text>
+        <mj-text align="center" color="#fff" font-family="helvetica" line-height="1.3" letter-spacing="1px"><strong>Terms and Conditions</strong></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#564e58" full-width="600px" padding="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="helvetica" font-size="15px"><strong><u>Unsubscribe Here</u></strong></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
