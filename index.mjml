@@ -24,52 +24,64 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%"><mj-button background-color="#2e4057" color="#2e4057"><strong></strong></mj-button></mj-column>
+    </mj-section>
+
 
     <mj-section background-color="#2e4057" full-width="600px" padding="0">
       <mj-column width="50%">
         <mj-image align="left" width="300px" height="345px" src="https://images.pexels.com/photos/2774311/pexels-photo-2774311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Feel The Grandeur</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Make Memories</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Irony ramps readymade kale chips, sartorial godard schlitz subway tile crucifix organic PBR&B. Tattooed banh mi portland microdosing selfies cold-pressed. Photo booth truffaut mumblecore, man bun four dollar toast polaroid offal leggings hella deep v normcore quinoa squid etsy. Meditation shabby chic XOXO flannel viral bespoke you probably haven't heard of them post-ironic photo booth fingerstache. Bitters biodiesel meditation pork belly direct trade, flexitarian lo-fi plaid. Lyft etsy shabby chic prism single-origin coffee air plant authentic.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image align="center" width="300px" height="345px" src="https://images.pexels.com/photos/2040627/pexels-photo-2040627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" />
-        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Feel The Grandeur</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Irony ramps readymade kale chips, sartorial godard schlitz subway tile crucifix organic PBR&B. Tattooed banh mi portland microdosing selfies cold-pressed. Photo booth truffaut mumblecore, man bun four dollar toast polaroid offal leggings hella deep v normcore quinoa squid etsy. Meditation shabby chic XOXO flannel viral bespoke you probably haven't heard of them post-ironic photo booth fingerstache. Bitters biodiesel meditation pork belly direct trade, flexitarian lo-fi plaid. Lyft etsy shabby chic prism single-origin coffee air plant authentic.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%"><mj-button background-color="#2e4057" color="#2e4057"><strong></strong></mj-button></mj-column>
     </mj-section>
 
 
     <mj-section background-color="#2e4057" full-width="600px" padding="0">
       <mj-column width="33%">
         <mj-image align="left" width="200px" height="250px" src="https://images.pexels.com/photos/2413424/pexels-photo-2413424.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Feel The Grandeur</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Amazing Surroundings</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Single-origin coffee paleo try-hard letterpress, forage small batch cray lyft heirloom mlkshk salvia intelligentsia. Chia organic kitsch PBR&B. Listicle hexagon chambray pork belly mustache poke vegan occupy. Meditation chartreuse art party selfies cronut truffaut 3 wolf moon kale chips actually fixie trust fund small batch deep v sustainable four loko. Aesthetic 3 wolf moon taiyaki quinoa.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
       </mj-column>
       <mj-column width="33%">
         <mj-image align="center" width="200px" height="250px" src="https://images.pexels.com/photos/756024/pexels-photo-756024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Discover Wonders</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Single-origin coffee paleo try-hard letterpress, forage small batch cray lyft heirloom mlkshk salvia intelligentsia. Chia organic kitsch PBR&B. Listicle hexagon chambray pork belly mustache poke vegan occupy. Meditation chartreuse art party selfies cronut truffaut 3 wolf moon kale chips actually fixie trust fund small batch deep v sustainable four loko. Aesthetic 3 wolf moon taiyaki quinoa.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
       </mj-column>
       <mj-column width="33%">
         <mj-image align="center" width="200px" height="250px" src="https://images.pexels.com/photos/1324147/pexels-photo-1324147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
+        <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Find Inner Tranquility</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Single-origin coffee paleo try-hard letterpress, forage small batch cray lyft heirloom mlkshk salvia intelligentsia. Chia organic kitsch PBR&B. Listicle hexagon chambray pork belly mustache poke vegan occupy. Meditation chartreuse art party selfies cronut truffaut 3 wolf moon kale chips actually fixie trust fund small batch deep v sustainable four loko. Aesthetic 3 wolf moon taiyaki quinoa.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>LEARN MORE</strong></mj-button>
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%"><mj-button background-color="#2e4057" color="#2e4057"><strong></strong></mj-button></mj-column>
     </mj-section>
 
     <mj-section background-color="#2e4057" full-width="600px" padding="0">
@@ -77,10 +89,14 @@
         <mj-image align="center" width="450px" height="300px" src="https://images.pexels.com/photos/2604845/pexels-photo-2604845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="16px" letter-spacing="1px"><strong>Expand Your World</strong></mj-text>
         <mj-text align="center" color="#ffffff" font-family="helvetica" font-size="13px" letter-spacing="1px">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Tote bag iceland plaid unicorn. Tousled subway tile prism, 8-bit trust fund aesthetic truffaut activated charcoal literally. Waistcoat salvia semiotics, cornhole polaroid paleo everyday carry helvetica hammock cray squid. Scenester drinking vinegar organic aesthetic coloring book normcore. Skateboard DIY pabst, swag adaptogen hot chicken kinfolk four loko small batch. Listicle crucifix whatever, twee pop-up tumeric copper mug readymade portland cornhole before they sold out sartorial knausgaard air plant four loko. Quinoa waistcoat shaman hot chicken franzen mustache pork belly.
         </mj-text>
         <mj-button background-color="#da4167" color="#ffffff"><strong>BOOK YOUR TRIP TODAY</strong></mj-button>
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e4057" full-width="600px" padding="0">
+      <mj-column width="100%"><mj-button background-color="#2e4057" color="#2e4057"><strong></strong></mj-button></mj-column>
     </mj-section>
 
     <mj-section background-color="#564e58" full-width="600px" padding="0">
